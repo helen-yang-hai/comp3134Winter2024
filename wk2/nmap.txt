@@ -1,0 +1,57 @@
+#1 nmap {host_name}
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap apple.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-19 20:59 UTC
+Nmap scan report for apple.com (17.253.144.10)
+Host is up (0.0012s latency).
+Other addresses for apple.com (not scanned): 2620:149:af0::10
+rDNS record for 17.253.144.10: apple.com.tt
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.30 seconds
+
+
+
+#2 nmap -p {port_number} {host_name}
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 443 apple.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-20 03:53 UTC
+Nmap scan report for apple.com (17.253.144.10)
+Host is up (0.0014s latency).
+Other addresses for apple.com (not scanned): 2620:149:af0::10
+rDNS record for 17.253.144.10: apple.com.cn
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 0.07 seconds
+
+
+#3 nmap -p {start_port_range}-{end_port_range} {host_name}
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 50-300 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-20 04:11 UTC
+Nmap scan report for google.com (142.251.41.78)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.41.78: yyz10s20-in-f14.1e100.net
+Not shown: 250 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.18 seconds
+
+
+#4 nmap -F {host_name}
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -F georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-20 04:15 UTC
+Nmap scan report for georgebrown.ca (99.79.139.11)
+Host is up (0.0084s latency).
+rDNS record for 99.79.139.11: ec2-99-79-139-11.ca-central-1.compute.amazonaws.com
+Not shown: 97 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.71 seconds

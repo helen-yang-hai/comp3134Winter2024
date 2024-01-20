@@ -1,0 +1,8 @@
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# traceroute apple.com
+traceroute to apple.com (17.253.144.10), 30 hops max, 60 byte packets
+ 1  162.243.190.9 (162.243.190.9)  1.479 ms  1.761 ms 162.243.190.8 (162.243.190.8)  1.431 ms
+ 2  143.198.252.198 (143.198.252.198)  1.712 ms  1.997 ms 143.198.252.196 (143.198.252.196)  1.675 ms
+ 3  toro-b5-link.ip.twelve99.net (62.115.55.29)  2.123 ms  2.188 ms  2.168 ms
+ 4  toro-b2-link.ip.twelve99.net (62.115.117.229)  2.066 ms  2.053 ms  2.109 ms
+ 5  apple-ic-375876.ip.twelve99-cust.net (213.248.78.193)  1.691 ms apple-ic-375877.ip.twelve99-cust.net (213.248.78.197)  1.707 ms apple-ic-375876.ip.twelve99-cust.net (213.248.78.193)  1.766 ms
+ 6  guide.apple.com (17.253.144.10)  1.797 ms !X  0.576 ms !X  0.520 ms !X

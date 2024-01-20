@@ -1,0 +1,21 @@
+yang@Yangs-MacBook-Pro ~ % ping 137.184.160.43
+PING 137.184.160.43 (137.184.160.43): 56 data bytes
+64 bytes from 137.184.160.43: icmp_seq=0 ttl=59 time=3.780 ms
+64 bytes from 137.184.160.43: icmp_seq=1 ttl=59 time=4.554 ms
+64 bytes from 137.184.160.43: icmp_seq=2 ttl=59 time=9.105 ms
+64 bytes from 137.184.160.43: icmp_seq=3 ttl=59 time=2.572 ms
+64 bytes from 137.184.160.43: icmp_seq=4 ttl=59 time=4.675 ms
+64 bytes from 137.184.160.43: icmp_seq=5 ttl=59 time=4.275 ms
+64 bytes from 137.184.160.43: icmp_seq=6 ttl=59 time=9.066 ms
+64 bytes from 137.184.160.43: icmp_seq=7 ttl=59 time=6.764 ms
+64 bytes from 137.184.160.43: icmp_seq=8 ttl=59 time=3.612 ms
+64 bytes from 137.184.160.43: icmp_seq=9 ttl=59 time=3.886 ms
+64 bytes from 137.184.160.43: icmp_seq=10 ttl=59 time=2.686 ms
+64 bytes from 137.184.160.43: icmp_seq=11 ttl=59 time=3.613 ms
+64 bytes from 137.184.160.43: icmp_seq=12 ttl=59 time=3.623 ms
+64 bytes from 137.184.160.43: icmp_seq=13 ttl=59 time=4.318 ms
+64 bytes from 137.184.160.43: icmp_seq=14 ttl=59 time=3.815 ms
+^C
+--- 137.184.160.43 ping statistics ---
+15 packets transmitted, 15 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.572/4.690/9.105/1.957 ms

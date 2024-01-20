@@ -1,0 +1,392 @@
+#1:
+Domain Name: netflix.com
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-10-09T11:01:36+00:00
+        2023-10-09
+Creation Date: 1997-11-11T05:00:00+00:00
+        1997-11-11
+Registrar Registration Expiration Date: 2025-11-10T00:00:00+00:00
+        2025-11-10
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2086851750
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Netflix, Inc.
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Netflix, Inc.
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: US
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Netflix, Inc.
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: US
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns-1372.awsdns-43.org
+        ns-1984.awsdns-56.co.uk
+        ns-659.awsdns-18.net
+        ns-81.awsdns-10.com
+DNSSEC: unsigned
+
+
+
+#2
+Domain Name: facebook.com
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+        http://www.registrarsafe.com
+Updated Date: 2023-04-26T19:04:19+00:00
+        2023-04-26
+Creation Date: 1997-03-29T05:00:00+00:00
+        1997-03-29
+Registrar Registration Expiration Date: 2032-03-30T04:00:00+00:00
+        2032-03-30
+Registrar: RegistrarSafe, LLC
+Sponsoring Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6503087004
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Meta Platforms, Inc.
+Registrant Street: 1601 Willow Rd
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Meta Platforms, Inc.
+Admin Street: 1601 Willow Rd
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Meta Platforms, Inc.
+Tech Street: 1601 Willow Rd
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.facebook.com
+        b.ns.facebook.com
+        c.ns.facebook.com
+        d.ns.facebook.com
+DNSSEC: unsigned
+
+
+#3
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+00:00
+        2019-09-09
+Creation Date: 1997-09-15T07:00:00+00:00
+        1997-09-15
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+00:00
+        2028-09-14
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2086851750
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Google LLC
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Google LLC
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: US
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Google LLC
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: US
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns1.google.com
+        ns2.google.com
+        ns3.google.com
+        ns4.google.com
+DNSSEC: unsigned
+
+
+
+#4
+Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: https://www.comlaude.com
+        http://www.comlaude.com
+Updated Date: 2023-09-07T16:42:25+00:00
+        2023-08-28
+Creation Date: 1987-02-19T05:00:00+00:00
+        1987-02-19
+Registrar Registration Expiration Date: 2025-02-20T00:00:00+00:00
+        2025-02-20
+Registrar: NOM-IQ Ltd dba Com Laude
+        Nom-iq Ltd. dba COM LAUDE
+Sponsoring Registrar IANA ID: 470
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +44.2074218250
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Apple Inc.
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: REDACTED FOR PRIVACY (DT)
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: REDACTED FOR PRIVACY (DT)
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: REDACTED FOR PRIVACY (DT)
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: REDACTED FOR PRIVACY (DT)
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.apple.com
+        b.ns.apple.com
+        c.ns.apple.com
+        d.ns.apple.com
+DNSSEC: Unsigned Delegation
+
+
+
+#5
+Domain Name: timhortons.com
+Registry Domain ID: 1449913_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2023-10-11T01:10:58Z
+Creation Date: 1996-10-16T00:00:00Z
+Registrar Registration Expiration Date: 2024-10-15T04:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: General Counsel Legal Dept.
+Registrant Organization: Tim Hortons Canadian IP Holdings Corporation
+Registrant Street: 226 Wyecroft Road
+Registrant City: Oakville
+Registrant State/Province: ON
+Registrant Postal Code: L6K 3X7
+Registrant Country: CA
+Registrant Phone: +1.9058456511
+Registrant Phone Ext: 
+Registrant Fax: +1.9058452931
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Director of IT
+Admin Organization: Tim Hortons Canadian IP Holdings Corporation
+Admin Street: 226 Wyecroft Road
+Admin City: Oakville
+Admin State/Province: ON
+Admin Postal Code: L6K 3X7
+Admin Country: CA
+Admin Phone: +1.9058456511
+Admin Phone Ext: 
+Admin Fax: +1.9058452931
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Director of IT
+Tech Organization: The TDL Group Corp.
+Tech Street: 874 Sinclair Rd.
+Tech City: Oakville
+Tech State/Province: ON
+Tech Postal Code: L6K 2Y1
+Tech Country: CA
+Tech Phone: +1.8008462487
+Tech Phone Ext: 
+Tech Fax: +1.8008462487
+Tech Fax Ext: 
+Tech Email: 
+Name Server: udns1.cscdns.net
+Name Server: udns2.cscdns.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

@@ -1,0 +1,34 @@
+#1
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping 157.240.22.35
+PING 157.240.22.35 (157.240.22.35) 56(84) bytes of data.
+64 bytes from 157.240.22.35: icmp_seq=1 ttl=53 time=60.9 ms
+64 bytes from 157.240.22.35: icmp_seq=2 ttl=53 time=60.0 ms
+64 bytes from 157.240.22.35: icmp_seq=3 ttl=53 time=59.8 ms
+64 bytes from 157.240.22.35: icmp_seq=4 ttl=53 time=60.0 ms
+64 bytes from 157.240.22.35: icmp_seq=5 ttl=53 time=59.8 ms
+64 bytes from 157.240.22.35: icmp_seq=6 ttl=53 time=59.8 ms
+64 bytes from 157.240.22.35: icmp_seq=7 ttl=53 time=59.8 ms
+64 bytes from 157.240.22.35: icmp_seq=8 ttl=53 time=59.8 ms
+64 bytes from 157.240.22.35: icmp_seq=9 ttl=53 time=59.9 ms
+64 bytes from 157.240.22.35: icmp_seq=10 ttl=53 time=60.0 ms
+64 bytes from 157.240.22.35: icmp_seq=11 ttl=53 time=60.2 ms
+64 bytes from 157.240.22.35: icmp_seq=12 ttl=53 time=59.8 ms
+^C
+--- 157.240.22.35 ping statistics ---
+12 packets transmitted, 12 received, 0% packet loss, time 11017ms
+rtt min/avg/max/mdev = 59.757/59.971/60.906/0.311 ms
+
+
+#2 
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping apple.com -w 5
+PING apple.com(icloud.com (2620:149:af0::10)) 56 data bytes
+64 bytes from apple.com (2620:149:af0::10): icmp_seq=1 ttl=48 time=231 ms
+64 bytes from icloud.com (2620:149:af0::10): icmp_seq=2 ttl=48 time=229 ms
+64 bytes from icloud.com (2620:149:af0::10): icmp_seq=3 ttl=48 time=230 ms
+64 bytes from apple.com (2620:149:af0::10): icmp_seq=4 ttl=48 time=230 ms
+64 bytes from apple.com (2620:149:af0::10): icmp_seq=5 ttl=48 time=230 ms
+
+--- apple.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 229.193/229.793/230.602/0.480 ms
+

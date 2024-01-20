@@ -1,0 +1,71 @@
+#1  Facebook
+157.240.22.35
+Facebook, Inc.
+Location	Santa Clara, California, United States of America
+AS	AS32934
+AS name	Facebook, Inc.
+
+2a03:2880:f131:83:face:b00c:0:25de
+META PLATFORMS IRELAND LIMITED
+Location	Santa Clara, California, United States of America
+AS	AS32934
+AS name	Facebook, Inc.
+
+
+#2  Wikipedia
+198.35.26.96
+Wikimedia Foundation Inc.
+Location	San Jose, California, United States of America
+AS	AS14907
+AS name	Wikimedia Foundation Inc.
+
+2620:0:863:ed1a::1
+Wikimedia Foundation Inc.
+Location	San Francisco, California, United States of America
+AS	AS14907
+AS name	Wikimedia Foundation Inc.
+
+
+#3  Amazon
+52.94.225.242
+Amazon Technologies Inc.
+Location	Ashburn, Virginia, United States of America
+AS	AS16509
+AS name	Amazon.com, Inc.
+
+54.239.18.172
+Amazon Technologies Inc.
+Location	Ashburn, Virginia, United States of America
+AS	AS16509
+AS name	Amazon.com, Inc.
+
+54.239.19.238
+Amazon Technologies Inc.
+Location	Ashburn, Virginia, United States of America
+AS	AS16509
+AS name	Amazon.com, Inc.
+
+
+#4 Microsoft
+13.107.6.156
+Microsoft Corporation
+Location	Redmond, Washington, United States of America
+AS	AS8068
+AS name	Microsoft Corporation
+
+2620:1ec:a92::156
+Microsoft Corporation
+Location	Redmond, Washington, United States of America
+AS	AS8068
+AS name	Microsoft Corporation
+
+
+
+#5
+206.130.170.36
+City of Toronto
+Location	Toronto, Ontario, Canada
+AS	AS14836
+AS name	City of Toronto
+
+
