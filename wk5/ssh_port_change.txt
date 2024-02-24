@@ -1,0 +1,2 @@
+service sshd restart
+ssh -p 2222 root@137.184.160.43
