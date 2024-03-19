@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+I can see an array of directory names on the browser.
+
+• What sensitive information is given by this page
+The directory structure is displayed, and every directory may contain some sensitive information. The attackers may use these information to get more information or attack the system easily. 

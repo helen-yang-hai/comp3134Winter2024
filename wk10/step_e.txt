@@ -1,0 +1,10 @@
+Use basename(): 
+The basename() function shall return a pointer to the final component of path, which is preventing traversal beyond the html directory.
+
+
+Use file_exists(): 
+It can check if it exists or not first to avoid accessing non-existent or invalid directories.
+
+
+Prevent passing a filename: 
+Checking if there is a dot in the path. If there is a dot, means it's a filename, if no, it's a directory. So if it is a filename, an error will be displayed.

@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+I can see the directory path on the browser if it exists in my droplet web root. 
+
+• What sensitive information is given by this page
+The file name and the query string is sensitive. The attacker could send different queries and get the directory path in the droplet web root. 

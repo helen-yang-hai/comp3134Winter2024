@@ -1,0 +1,5 @@
+What you see on the browser (the issue):
+%2e%2e%2f is a URL-encoded of ../, which means go up one level directory from current directory (the web root). It shows the content of that level directory.
+
+What sensitive information is given by this page:
+As previous question's reault, it reveals the directory structures. The attackers can access all directories as they wish without any authorization, where may contain sensitive datas or files, or they can attack the system easily.
