@@ -1,0 +1,19 @@
+1) Navigate to the form and type a valid English word. Write your observations.
+It redirect me to the defination page of the word I just typed in
+
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the
+URL. Write your observations
+The page display an message 'No results found for <invalid word I typed in>' and below that it gave me more suggestions of some possible words.
+
+
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script>
+Write your observations.
+The page display "No results found for <script>alert('hello')</script>" and the url is "https://www.dictionary.com/browse/<script>alert(%2527hello%2527)<%2Fscript>"
+
+
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script>
+after the `term=` section of the URL. Write your observations.
+It display Oops, which indicates the page I'm looking for can't be found.

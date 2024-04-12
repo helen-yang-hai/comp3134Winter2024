@@ -1,0 +1,2 @@
+strip_tags() only output the value, all self-closing HTML tags are ignored if without any value for allowed_tags parameters
+htmlentities() convert all applicable characters to HTML entities 
